@@ -11,11 +11,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: StartBootstrap/startbootstrap-agency
+remote_theme: "CloudCannon/vonge"  
 
 
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://Marypoza76.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Your Awesome Website
