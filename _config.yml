@@ -11,17 +11,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: "CloudCannon/vonge"  
+remote_theme: pages-themes/architect@v0.2.0 
 
+plugins:
+  - jekyll-remote-theme
 
 
 url    : "https://Marypoza76.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
+title: "Marypoza76 | IA en Salud y Laboratorio"
+description: "Explorando IA aplicada a la salud y ciencias de laboratorio."
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+author     : Marilyn Ponzón Zapata
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
