@@ -19,7 +19,7 @@
 
 This is the [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/), converted to a gem-based Jekyll theme with GitHub Pages support.
 
-While this has been done before, [here](https://github.com/y7kim/agency-jekyll-theme), [here](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency), and [here](https://github.com/laklau/agency-jekyll-theme/), these are outdated and have not been updated or maintained for years. I built this theme from the most recent Bootstrap source.
+While this has been done before, [here](https://github.com/y7kim/agency-jekyll-theme), [here](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency), and [here](https://github.com/laklau/jekyll-theme-startbootstrap-agency/), these are outdated and have not been updated or maintained for years. I built this theme from the most recent Bootstrap source.
 
 I also added a lot of new features that go beyond the original theme's capabilities:
 
@@ -71,7 +71,7 @@ There are three ways to install this theme:
 
 #### 1. Gem-based Theme Installation
 
-Replace the contents of your `_config.yml` file with the sample [\_config.yml](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme/master/_config.yml).
+Replace the contents of your `_config.yml` file with the sample [\_config.yml](https://raw.githubusercontent.com/raviriley/jekyll-theme-startbootstrap-agency/master/_config.yml).
 
 Install the gem with:
 
@@ -104,9 +104,9 @@ Simply generate your own repository by clicking the button below. Then replace t
     
 #### 3. Remote Theme Installation
 
-Replace your `_config.yml` file with the starter [\_config.yml](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/_config.yml).
+Replace your `_config.yml` file with the starter [\_config.yml](https://raw.githubusercontent.com/raviriley/jekyll-theme-startbootstrap-agency-starter/master/_config.yml).
 
-Replace your `Gemfile` with the starter [Gemfile](https://raw.githubusercontent.com/raviriley/agency-jekyll-theme-starter/master/Gemfile).
+Replace your `Gemfile` with the starter [Gemfile](https://raw.githubusercontent.com/raviriley/jekyll-theme-startbootstrap-agency-starter/master/Gemfile).
 
 Then install gems.
 
