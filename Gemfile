@@ -1,5 +1,7 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
+
 gemspec
 
 # Delete the following lines if not on Windows: 
