@@ -1,5 +1,10 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: "Marilyn Ponzón | IA aplicada a Salud"
+description: "Consultoría en inteligencia artificial y análisis de datos clínicos."
+baseurl: "" # Déjalo vacío si es un sitio principal
+url: "https://marypoza76.github.io"
+permalink: pretty
 theme: jekyll-theme-architect
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
