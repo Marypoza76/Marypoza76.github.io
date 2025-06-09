@@ -94,25 +94,22 @@ p {
 }
 
 .portfolio-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: 20px;
-    justify-content: center;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
 }
+
 .portfolio-item {
-    background-color: #ffffff;
-    padding: 20px;
-    border-radius: 6px;
-    text-align: center;
-    width: 100%;
-    max-width: 400px;
+  background-color: #b8860b;
+  padding: 20px;
+  border-radius: 6px;
+  text-align: center;
+  width: 400px;
 }
+
 .portfolio-item images {
-    width: 100%;
-    max-height: 250px; /* Limita el alto */
-    object-fit: cover; /* Evita distorsiones */
-    border-radius: 8px;
+  width: 100%;
+  border-radius: 6px;
 }
 
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=styles.css.map */
